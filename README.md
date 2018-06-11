@@ -2,7 +2,7 @@
 ## The Dart
 
 Obtain a lovely, uncreased 8.5 x 11 inch sheet of scrap paper 
-1. Fold the paper in half vertically (hotdog, not hamburger).
+1. Fold the paper in half vertically so that the paper is 4.25 x 11 inches.
 2. Unfold the paper and fold the top two corners to the center line. The paper should have a stereotypical "house" shape.
 3. Fold the resulting obtuse angles to the center line.
 4. Fold the plane in half toward you, previous folds on the inside.
